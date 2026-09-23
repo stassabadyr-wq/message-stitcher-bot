@@ -2,7 +2,7 @@
 
 > ⚠️ **Это демонстрационная версия.** Полный рабочий код (`handlers.py`, `database.py`, `main.py`) доступен в платной версии.
 >
-> 📦 **Купить полную версию:** [ссылка на VibeDepot]
+> 📦 **Купить полную версию:** (https://vibedepot.ru/p/message-stitcher-bot-sborka-soobscheniy-v-odin-tekst)
 
 ## Что делает бот
 
